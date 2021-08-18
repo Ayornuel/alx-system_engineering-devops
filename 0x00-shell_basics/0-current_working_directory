@@ -1,5 +1,5 @@
 #!/bin/bash
-pwd /0-current_working_directory
-/root/alx-system_engineering-deveops/0x00-shell_basics
+realpath 0-current_working_directory
+
 
 
