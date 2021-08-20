@@ -5,4 +5,7 @@
 2. **Groups** - A script that prints all the groups the current user is part of in the file **2-groups**
 3. **New owner** - A script that changes the owner of the file **hello** to the user **betty** in the file **3-new_owner**
 4. **Empty!** - A script that creates an empty file called **hello**
+5. **Execute** - A script that adds execute permission to the owner of the file **hello**
+The file **hello** will be in the working directory in the file **5-execute**
+
 
