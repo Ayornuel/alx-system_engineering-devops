@@ -7,5 +7,5 @@
 4. **Empty!** - A script that creates an empty file called **hello**
 5. **Execute** - A script that adds execute permission to the owner of the file **hello**
 The file **hello** will be in the working directory in the file **5-execute**
-
+6. **Multiple permissions** - a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file **hello** in the file **6-multiple_permissions**
 
